@@ -85,6 +85,7 @@ import { oswestry } from './oswestry/oswestry'
 import { oxford_hip_score } from './oxford_hip_score/oxford_hip_score'
 import { oxford_knee_score } from './oxford_knee_score/oxford_knee_score'
 import { packyears } from './packyears/packyears'
+import { paid_20 } from './PAID_20/paid_20'
 import { panss_6 } from './panss_6/panss_6'
 import { paq_c } from './paq_c/paq_c'
 import { pci } from './pci/pci'
@@ -212,6 +213,7 @@ export const CALCULATIONS: CalculationsLibraryType = {
   oxford_hip_score,
   oxford_knee_score,
   packyears,
+  paid_20,
   panss_6,
   paq_c,
   pci,
